@@ -1,5 +1,3 @@
-[![hyper-logo](https://raw.githubusercontent.com/lacymorrow/hyper-border/master/hyper-logo.gif)](https://github.com/lacymorrow/hyper-border)
-
 # hyper-border
 
 > Add a gradient border to the Hyper2 terminal
