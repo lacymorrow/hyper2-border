@@ -1,4 +1,4 @@
-# hyper-border [![npm version](https://badge.fury.io/js/hyper-border.svg)](https://badge.fury.io/js/hyper-border) [![Build Status](https://travis-ci.org/lacymorrow/hyper-border.svg?branch=master)](https://travis-ci.org/lacymorrow/hyper-border)
+# hyper2-border [![npm version](https://badge.fury.io/js/hyper2-border.svg)](https://badge.fury.io/js/hyper2-border) [![Build Status](https://travis-ci.org/lacymorrow/hyper2-border.svg?branch=master)](https://travis-ci.org/lacymorrow/hyper2-border)
 
 > Add a gradient border to the [Hyper2](https://hyper.is/) terminal
 
@@ -6,12 +6,12 @@
 
 # Installation
 
-Add `hyper-border` to plugins in your `~/.hyper.js` configuration
+Add `hyper2-border` to plugins in your `~/.hyper.js` configuration
 
 ````
 module.exports = {
   ...
-  plugins: ['hyper-border']
+  plugins: ['hyper2-border']
   ...
 }
 ````
