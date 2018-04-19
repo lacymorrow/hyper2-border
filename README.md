@@ -1,5 +1,8 @@
-# hyperborder - extension for Hyper
-adds a gradient border to the `Hyper` terminal
+[![hyper-logo](https://raw.githubusercontent.com/lacymorrow/hyper-border/master/hyper-logo.gif)](https://github.com/lacymorrow/hyper-border)
+
+# hyper-border
+
+> Add a gradient border to the Hyper2 terminal
 
 [![hyper-border](https://raw.githubusercontent.com/lacymorrow/hyper-border/master/screenshot.png)](https://github.com/lacymorrow/hyper-border)
 
@@ -61,3 +64,6 @@ module.exports = {
 Then every newly opened `Hyper` terminal window will have a different colored border.
 
 # [Get Hyper](https://hyper.is/)
+
+
+Full credit to [@Webmatze](https://github.com/webmatze) for original work on [hyperborder](https://github.com/webmatze/hyperborder)
