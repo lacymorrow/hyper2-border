@@ -1,10 +1,10 @@
-# hyper-border
+# hyper-border [![npm version](https://badge.fury.io/js/hyper-border.svg)](https://badge.fury.io/js/hyper-border) [![Build Status](https://travis-ci.org/lacymorrow/hyper-border.svg?branch=master)](https://travis-ci.org/lacymorrow/hyper-border)
 
-> Add a gradient border to the Hyper2 terminal
+> Add a gradient border to the [Hyper2](https://hyper.is/) terminal
 
 [![hyper-border](https://raw.githubusercontent.com/lacymorrow/hyper-border/master/screenshot.png)](https://github.com/lacymorrow/hyper-border)
 
-## Installation
+# Installation
 
 Add `hyper-border` to plugins in your `~/.hyper.js` configuration
 
@@ -18,7 +18,7 @@ module.exports = {
 
 then restart the `Hyper` app or go to the menu 'Plugins / Update All Now'
 
-## Configuration
+# Configuration
 
 The following settings can be configured by adding a `hyperBorder` section in your `.hyper.js` `config` section:
 
@@ -64,4 +64,4 @@ Then every newly opened `Hyper` terminal window will have a different colored bo
 # [Get Hyper](https://hyper.is/)
 
 
-Full credit to [@Webmatze](https://github.com/webmatze) for original work on [hyperborder](https://github.com/webmatze/hyperborder)
+Full credit to [@Webmatze](https://github.com/webmatze) for original work on [hyperborder](https://github.com/webmatze/hyperborder).
