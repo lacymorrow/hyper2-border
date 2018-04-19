@@ -1,7 +1,7 @@
 # hyperborder - extension for Hyper
 adds a gradient border to the `Hyper` terminal
 
-[![hyper-border](https://raw.githubusercontent.com/lacymorrow/hyper-border/screenshot.png)](https://github.com/lacymorrow/hyper-border)
+[![hyper-border](https://raw.githubusercontent.com/lacymorrow/hyper-border/master/screenshot.png)](https://github.com/lacymorrow/hyper-border)
 
 ## Installation
 
