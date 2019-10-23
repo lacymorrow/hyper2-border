@@ -2,7 +2,7 @@
 
 > Add a gradient border to the [Hyper2](https://hyper.is/) terminal
 
-[![hyper-border](https://raw.githubusercontent.com/lacymorrow/hyper-border/master/screenshot.png)](https://github.com/lacymorrow/hyper-border)
+[![hyper-border](https://raw.githubusercontent.com/lacymorrow/hyper2-border/master/screenshot.png)](https://github.com/lacymorrow/hyper2-border)
 
 # Installation
 
