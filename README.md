@@ -1,4 +1,6 @@
-# hyper2-border [![npm version](https://badge.fury.io/js/hyper2-border.svg)](https://badge.fury.io/js/hyper2-border) [![Build Status](https://travis-ci.org/lacymorrow/hyper2-border.svg?branch=master)](https://travis-ci.org/lacymorrow/hyper2-border)
+# hyper2-border 
+
+[![npm version](https://badge.fury.io/js/hyper2-border.svg)](https://badge.fury.io/js/hyper2-border) [![Build Status](https://travis-ci.org/lacymorrow/hyper2-border.svg?branch=master)](https://travis-ci.org/lacymorrow/hyper2-border)
 
 > Add a gradient border to the [Hyper2](https://hyper.is/) terminal
 
